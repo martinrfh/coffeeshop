@@ -21,7 +21,7 @@ body {
 
 .jumbotron1 {
     color: white;
-    background-image: url("/images/header.jpg");
+    background-image: url("../images/header.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,7 +30,7 @@ body {
 
 .jumbotron-footer {
     color: white;
-    background-image: url(/images/footer.jpg);
+    background-image: url("../images/footer.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
